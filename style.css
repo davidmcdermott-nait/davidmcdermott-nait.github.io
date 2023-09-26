@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono&family=Source+Code+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono&family=Fira+Sans&family=Source+Code+Pro&display=swap');
+/*font-family: 'Fira Mono', monospace;
+font-family: 'Fira Sans', sans-serif;
+font-family: 'Source Code Pro', monospace;*/
+body {
+    font-family: 'Fira Sans', sans-serif;
+    background-color: rgb(235, 255, 255);
+}
+
+a {
+    font-family: 'Fira Mono', monospace;
+    color:violet;
+    font-size: 20px;
+}
+
+h1, h5 {
+    text-align: center;
+}
+
+.Centered {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#ALast {
+    letter-spacing: 10px;
+}
+
+a:link, a:visited {
+    color: green;
+}
+
+a:hover {
+    color: yellow;
+}
+
+a:active {
+    color: red;
+}
